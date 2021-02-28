@@ -13,7 +13,7 @@ The main objective of this project is to reduce the burden and ignorance for all
 # 🚀&nbsp;Installation 
 1. Clone the repository 
 ```
-https://github.com/Ash515/Coders-PLOT.git
+https://github.com/Ash515/CodersPLOT.git
 ```
 2. Check the status of your file 
 ```
