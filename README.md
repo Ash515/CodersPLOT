@@ -10,8 +10,10 @@ The main objective of this project is to reduce the burden and ignorance for all
 - CSS3
 - JavaScript
 
-## Images
-<img src="png"
+## Image Results ✨👓
+<img src="Output Images/CP 1.png" width="400px">    <img src="Output Images/Cp 2.png" width="400px">
+
+<img src="Output Images/CP 3.png" width="400px">    <img src="Output Images/CP 5.png" width="400px">
 # 🚀&nbsp;Installation 
 1. Clone the repository 
 ```
